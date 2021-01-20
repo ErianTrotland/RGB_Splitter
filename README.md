@@ -3,7 +3,7 @@ After Effects script that splits a layer into its red, green, and blue channel.
 
 
 Tutorial:
-
+https://youtu.be/ZXhfBUO0i5M
 
 
 
